@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+SDK-Specification-Version: 2.2
+Implementation-Title: APP
+Implementation-Version: 1.0.0
+Amazon-Cover-Image: cover.png
+Extension-List: SDK
+Implementation-Vendor: FireZ
+Main-Class: krrxue.Launch
+Toolbar-Mode: persistent
+Font-Size-Mode: pixel
+SDK-Extension-Name: com.amazon.kindle.kindlet

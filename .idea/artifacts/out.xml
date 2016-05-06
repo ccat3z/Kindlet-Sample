@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="out">
+    <output-path>$PROJECT_DIR$/out/artifacts/out</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true">
+        <file>file://$PROJECT_DIR$/build.xml</file>
+        <target>sign</target>
+      </options>
+    </properties>
+    <root id="archive" name="out.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Sample" />
+      <element id="file-copy" path="$PROJECT_DIR$/cover.png" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="kindlet-lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../kindlet-lib" />
+      <root url="file://$PROJECT_DIR$/../kindlet-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../kindlet-lib" />
+      <root url="file://$PROJECT_DIR$/../kindlet-lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../kindlet-lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../kindlet-lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../kindlet-lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../kindlet-lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

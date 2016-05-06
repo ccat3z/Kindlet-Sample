@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Sign" default="sign">
+	<property file="build.properties"/>
+
+	<target name="sign">
+		<exec command="cp out/artifacts/out/out.jar ${product.filename}"/>
+		<signjar jar="${product.filename}" keystore="${sign.keystore.file}" storepass="${sign.keystore.password}" alias="dk${sign.aliases}"/>
+		<signjar jar="${product.filename}" keystore="${sign.keystore.file}" storepass="${sign.keystore.password}" alias="di${sign.aliases}"/>
+		<signjar jar="${product.filename}" keystore="${sign.keystore.file}" storepass="${sign.keystore.password}" alias="dn${sign.aliases}"/>
+	</target>
+</project>
