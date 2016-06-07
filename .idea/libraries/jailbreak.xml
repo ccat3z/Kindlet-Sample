@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jailbreak">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../kindlet-2.2/jailbreak.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../kindlet-2.2/jailbreak.jar!/" />
+    </SOURCES>
+  </library>
+</component>

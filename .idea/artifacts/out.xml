@@ -13,6 +13,7 @@
       </element>
       <element id="module-output" name="Sample" />
       <element id="file-copy" path="$PROJECT_DIR$/cover.png" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../kindlet-2.2/jailbreak.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
